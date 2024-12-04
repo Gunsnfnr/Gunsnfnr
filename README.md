@@ -6,8 +6,8 @@ I'm on my way to becoming a better developer.
 <img src="https://img.shields.io/badge/html5-e44d26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=grey" />
 <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js-80bc02?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/react-00dcff?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=white" />
+
+<img src="https://img.shields.io/badge/react-00dcff?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=white" />
 <img src="https://img.shields.io/badge/next.js-101010?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/nestjs-ffffff?style=for-the-badge&logo=nestjs&logoColor=ea2845" />
 
@@ -15,17 +15,18 @@ I'm on my way to becoming a better developer.
 <img src="https://img.shields.io/badge/webpack-1c78c0?style=for-the-badge&logo=webpack&logoColor=white" /> <img src="https://img.shields.io/badge/vite-be33fe?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/vitest-659e00?style=for-the-badge&logo=vitest&logoColor=white" />
 <img src="https://img.shields.io/badge/postgresql-3d5065?style=for-the-badge&logo=postgresql&logoColor=2496ed" />
+<img src="https://img.shields.io/badge/prisma-1a202c?style=for-the-badge&logo=prisma&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=2496ed" />
-<img src="https://img.shields.io/badge/eslint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white" />
-<img src="https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white" />
+
+<img src="https://img.shields.io/badge/eslint-4b32c3?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=white" />
 <img src="https://img.shields.io/badge/husky-f8b749?style=for-the-badge&logo=husky&logoColor=white" />
 <img src="https://img.shields.io/badge/git-f05133?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-282835?style=for-the-badge&logo=github&logoColor=white" />
 
 
 ### 💻 Here are some of my works so far:
-- Home Library Service (WebSocket, backend) [code](https://github.com/Gunsnfnr/nodejs2024Q3-service/tree/develop3)  (Node.js / NestJS / TS / PostgreSQL / Docker, Nov 2024)
-- Battlefield (WebSocket, backend) [code](https://github.com/Gunsnfnr/nodejs-websockets-battleship/tree/develop)  (Node.js / TS, Oct 2024)
+- Home Library Service (backend, REST API) [code](https://github.com/Gunsnfnr/nodejs2024Q3-service/tree/develop3)  (Node.js / NestJS / TS / PostgreSQL / Prisma / Docker, Nov 2024)
+- Battlefield (backend, WebSocket) [code](https://github.com/Gunsnfnr/nodejs-websockets-battleship/tree/develop)  (Node.js / TS, Oct 2024)
 - [RESTful and GraphQL client](https://graphiql-qidfaux3k-tanykos-projects.vercel.app/) (TS / React / Next.js, team project, Sept 2024)
 - [Star Wars API app](https://rss-react-2024-q3-swapi.vercel.app/) (TS / React / Redux, and also Next.js version ([code](https://github.com/Gunsnfnr/rss-react-2024-q3/tree/nextjs-ssr-app-router-api)), Aug 2024)
 - [Commercetools app](https://keep-calm-and-code.netlify.app/) (TS, team project, June 2024)
